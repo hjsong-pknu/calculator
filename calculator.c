@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "eval.h"
 #define BUFFERSIZE (256)
-
+int global;
 int main(void) {
 	char input[BUFFERSIZE];
 	
