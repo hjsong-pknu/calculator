@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include "eval.h"
 #define BUFFERSIZE (256)
+#define EXPRESSION_INPUT_MESSAGE "Enter your expression: "
 
 int main(void) {
 	char input[BUFFERSIZE];
