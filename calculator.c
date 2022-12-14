@@ -6,6 +6,8 @@
 int main(void) {
 	char input[BUFFERSIZE];
 	
+	printf("This is chaewon's calculator\n");
+
 	printf("Enter your expression: ");
 	fflush(stdout);
 	fgets(input, BUFFERSIZE, stdin);
