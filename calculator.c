@@ -11,6 +11,6 @@ int main(void) {
 	fgets(input, BUFFERSIZE, stdin);
 	printf("Result is: %.2f\n", evaluate(input));
 	printf("have a nice day");
-	//201930204_김태균 1줄 추가
+	//201930204_김태균 1줄 추가입니다
 	return EXIT_SUCCESS;
 }
