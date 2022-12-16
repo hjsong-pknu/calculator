@@ -7,8 +7,9 @@
 #include "stack.h"
 #include "eval.h"
 
-int global_var=0;
 
+int global_var=0;
+int aa = 0;
 char * toPostfix(char * infix, char * postfix) {
 	char buffer[BUFFERSIZE];
 	Stack * op_stack = create_stack(STACKSIZE);
