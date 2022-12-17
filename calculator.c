@@ -10,6 +10,6 @@ int main(void) {
 	fflush(stdout);
 	fgets(input, BUFFERSIZE, stdin);
 	printf("Result is: %.2f\n", evaluate(input));
-	printf("Calculation is success!");
+	printf("Calculation is success!\n");
 	return EXIT_SUCCESS;
 }
