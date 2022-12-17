@@ -5,7 +5,7 @@
 
 int main(void) {
 	char input[BUFFERSIZE];
-	
+	printf("Hello, Open Source! this is a calculate program.\n");
 	printf("Enter your expression: ");
 	fflush(stdout);
 	fgets(input, BUFFERSIZE, stdin);
