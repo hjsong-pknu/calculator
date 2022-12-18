@@ -5,7 +5,7 @@
 
 int main(void) {
 	char input[BUFFERSIZE];
-	
+	printf("#assignment3\n");
 	printf("Enter your expression: ");
 	fflush(stdout);
 	fgets(input, BUFFERSIZE, stdin);
