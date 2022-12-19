@@ -4,6 +4,7 @@
 #define BUFFERSIZE (256)
 
 int main(void) {
+	//201813123 김도원 입니다.
 	char input[BUFFERSIZE];
 	
 	printf("Enter your expression: ");
