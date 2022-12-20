@@ -3,6 +3,8 @@
 #include "eval.h"
 #define BUFFERSIZE (256)
 
+int park;
+
 int main(void) {
 	char input[BUFFERSIZE];
 	
