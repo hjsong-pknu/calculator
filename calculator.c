@@ -6,6 +6,7 @@
 int main(void) {
 	char input[BUFFERSIZE];
 	
+	printf("Hello PKNU \n");
 	printf("Enter your expression: ");
 	fflush(stdout);
 	fgets(input, BUFFERSIZE, stdin);
