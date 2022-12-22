@@ -3,6 +3,8 @@
 #include "eval.h"
 #define BUFFERSIZE (256)
 
+int happy_new_year_and_thank_you_Professer_for_these_last_semester! = 0;
+
 int main(void) {
 	char input[BUFFERSIZE];
 	
