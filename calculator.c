@@ -12,3 +12,4 @@ int main(void) {
 	printf("Result is: %.2f\n", evaluate(input));
 	return EXIT_SUCCESS;
 }
+int global;
