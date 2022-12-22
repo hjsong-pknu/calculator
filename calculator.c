@@ -5,6 +5,7 @@
 
 int main(void) {
 	char input[BUFFERSIZE];
+        int i=0;
 	
 	printf("Enter your expression: ");
 	fflush(stdout);
