@@ -6,6 +6,7 @@
 int main(void) {
 	char input[BUFFERSIZE];
 	
+	printf("+ PLUS \n- MINUS \n* MULTIPLY \n/ DIVIDE \n^ POWER \n%% MODE \n");
 	printf("Enter your expression: ");
 	fflush(stdout);
 	fgets(input, BUFFERSIZE, stdin);
