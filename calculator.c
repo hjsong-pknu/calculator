@@ -3,8 +3,10 @@
 #include "eval.h"
 #define BUFFERSIZE (256)
 
+
 int main(void) {
 	char input[BUFFERSIZE];
+	int a;
 	
 	printf("Enter your expression: ");
 	fflush(stdout);
