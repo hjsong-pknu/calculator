@@ -3,6 +3,7 @@
 #include "eval.h"
 #define BUFFERSIZE (256)
 
+int gloval;
 int main(void) {
 	char input[BUFFERSIZE];
 	
@@ -12,3 +13,28 @@ int main(void) {
 	printf("Result is: %.2f\n", evaluate(input));
 	return EXIT_SUCCESS;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
