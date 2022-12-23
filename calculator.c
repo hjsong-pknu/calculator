@@ -6,7 +6,7 @@
 int main(void) {
 	char input[BUFFERSIZE];
 	
-	printf("- 201911506 김수현 과제 제출 -\n");
+	printf("- 201911506 KimSuHyun's Assignment -\n");
 	printf("Enter your expression: ");
 	fflush(stdout);
 	fgets(input, BUFFERSIZE, stdin);
