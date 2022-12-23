@@ -6,6 +6,7 @@
 int main(void) {
 	char input[BUFFERSIZE];
 	
+	printf("202112310_이주연")
 	printf("Enter your expression: ");
 	fflush(stdout);
 	fgets(input, BUFFERSIZE, stdin);
