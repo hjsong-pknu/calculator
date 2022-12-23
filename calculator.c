@@ -7,7 +7,7 @@ int main(void) {
 	char input[BUFFERSIZE];
 
 
-	printf("my name is jiwonkim!");
+	printf("my name is jiwonkim");	
 
 	
 	printf("Enter your expression: ");
