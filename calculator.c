@@ -3,7 +3,8 @@
 #include "eval.h"
 #define BUFFERSIZE (256)
 
-int gloval;
+int global;
+
 int main(void) {
 	char input[BUFFERSIZE];
 	
