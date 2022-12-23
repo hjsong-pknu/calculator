@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "eval.h"
 #define BUFFERSIZE (256)
-
+//과제 3 수정하였습니다
 int main(void) {
 	char input[BUFFERSIZE];
 	
