@@ -3,6 +3,8 @@
 #include "eval.h"
 #define BUFFERSIZE (256)
 
+printf("201930109_LEE");
+
 int main(void) {
 	char input[BUFFERSIZE];
 	
