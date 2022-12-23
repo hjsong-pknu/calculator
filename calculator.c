@@ -3,6 +3,7 @@
 #include "eval.h"
 #define BUFFERSIZE (256)
 
+// 201512122 이건창입니다
 int main(void) {
 	char input[BUFFERSIZE];
 	
