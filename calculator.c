@@ -5,7 +5,8 @@
 
 int main(void) {
 	char input[BUFFERSIZE];
-	
+
+	printf("Welcome to file calculator.c");
 	printf("Enter your expression: ");
 	fflush(stdout);
 	fgets(input, BUFFERSIZE, stdin);
