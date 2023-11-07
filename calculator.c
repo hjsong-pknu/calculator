@@ -4,6 +4,7 @@
 #define BUFFERSIZE (256)
 
 int main(void) {
+	int myint = 56; // add code
 	char input[BUFFERSIZE];
 	
 	printf("Enter your expression: ");
