@@ -3,6 +3,8 @@
 #include "eval.h"
 #define BUFFERSIZE (256)
 
+#define TESTNUMBER 100
+
 int main(void) {
 	char input[BUFFERSIZE];
 	
