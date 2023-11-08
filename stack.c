@@ -5,7 +5,6 @@
 
 #define TRAINGNUMBER 100 
 
-
 Stack * create_stack(int initial_size)
 {
 	Stack * s = (Stack *)malloc(sizeof(Stack));
