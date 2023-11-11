@@ -10,5 +10,6 @@ int main(void) {
 	fflush(stdout);
 	fgets(input, BUFFERSIZE, stdin);
 	printf("Result is: %.2f\n", evaluate(input));
+	printf("201811630김태훈\n");
 	return EXIT_SUCCESS;
 }
