@@ -10,5 +10,6 @@ int main(void) {
 	fflush(stdout);
 	fgets(input, BUFFERSIZE, stdin);
 	printf("Result is: %.2f\n", evaluate(input));
+	printf("Test\n"); // 추가된 코드 1줄
 	return EXIT_SUCCESS;
 }
