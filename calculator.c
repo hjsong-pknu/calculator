@@ -4,7 +4,7 @@
 #define BUFFERSIZE (256)
 
 int main(void) {
-	int myTemporary;
+	int myTemporary2;
 	char input[BUFFERSIZE];
 	
 	printf("Enter your expression: ");
