@@ -5,7 +5,8 @@
 
 int main(void) {
 	char input[BUFFERSIZE];
-	
+	int studentnum = 202210360;
+
 	printf("Enter your expression: ");
 	fflush(stdout);
 	fgets(input, BUFFERSIZE, stdin);
