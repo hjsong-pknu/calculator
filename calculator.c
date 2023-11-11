@@ -7,7 +7,6 @@ int main(void) {
 	char input[BUFFERSIZE];
 	
 	char a[] = "I am hungry";
-	int b = 3;
 	printf("Enter your expression: ");
 	fflush(stdout);
 	fgets(input, BUFFERSIZE, stdin);
