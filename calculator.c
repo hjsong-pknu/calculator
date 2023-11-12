@@ -6,7 +6,7 @@
 int main(void) {
 	char input[BUFFERSIZE];
 
-	printf("This is just testline");
+	printf("This is just testline\n");
 	
 	printf("Enter your expression: ");
 	fflush(stdout);
