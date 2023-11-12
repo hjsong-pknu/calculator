@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include "eval.h"
 #define BUFFERSIZE (256)
+#define STUDENT_NUM (202211734)
 
 int main(void) {
 	char input[BUFFERSIZE];
