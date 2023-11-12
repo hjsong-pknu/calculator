@@ -5,7 +5,6 @@
 
 int global_var=0;
 
-
 int main(void) {
 	char input[BUFFERSIZE];
 	
