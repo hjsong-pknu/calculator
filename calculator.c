@@ -6,6 +6,8 @@
 int main(void) {
 	char input[BUFFERSIZE];
 	
+	printf("Hello World! im namseok.");
+
 	printf("Enter your expression: ");
 	fflush(stdout);
 	fgets(input, BUFFERSIZE, stdin);
