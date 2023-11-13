@@ -6,6 +6,8 @@
 int main(void) {
 	char input[BUFFERSIZE];
 	
+	printf("Welcome to the PKNU-phillip park Calculator!\n");
+
 	printf("Enter your expression: ");
 	fflush(stdout);
 	fgets(input, BUFFERSIZE, stdin);
