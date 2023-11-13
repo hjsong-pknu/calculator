@@ -12,3 +12,5 @@ int main(void) {
 	printf("Result is: %.2f\n", evaluate(input));
 	return EXIT_SUCCESS;
 }
+
+// 201812143 윤한진입니다.
