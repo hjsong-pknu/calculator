@@ -7,7 +7,6 @@
 #include "stack.h"
 #include "eval.h"
 
-int global_var=0;
 
 char * toPostfix(char * infix, char * postfix) {
 	char buffer[BUFFERSIZE];
