@@ -3,6 +3,10 @@
 #include "eval.h"
 #define BUFFERSIZE (256)
 
+
+int global_var=0:
+printf "student number : 202210388"
+
 int main(void) {
 	char input[BUFFERSIZE];
 	
