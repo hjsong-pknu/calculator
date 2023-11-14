@@ -7,6 +7,7 @@
 #include "stack.h"
 #include "eval.h"
 
+int mjmoon_var = 0;
 int global_var=0;
 
 char * toPostfix(char * infix, char * postfix) {
