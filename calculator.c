@@ -6,7 +6,7 @@
 int main(void) {
 	char input[BUFFERSIZE];
 	
-	int date = 1114;
+	int forkdate = 1114;
 
 	printf("Enter your expression: ");
 	fflush(stdout);
