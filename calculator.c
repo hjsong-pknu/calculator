@@ -4,8 +4,11 @@
 #define BUFFERSIZE (256)
 
 int main(void) {
+
+	printf("Hello");
+
 	char input[BUFFERSIZE];
-	
+
 	printf("Enter your expression: ");
 	fflush(stdout);
 	fgets(input, BUFFERSIZE, stdin);
