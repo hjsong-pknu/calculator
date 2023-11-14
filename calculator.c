@@ -10,5 +10,8 @@ int main(void) {
 	fflush(stdout);
 	fgets(input, BUFFERSIZE, stdin);
 	printf("Result is: %.2f\n", evaluate(input));
+
+	printf("Add a new line\n");
+	
 	return EXIT_SUCCESS;
 }
