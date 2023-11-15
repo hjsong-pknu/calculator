@@ -3,7 +3,9 @@
 #include "eval.h"
 #define BUFFERSIZE (256)
 
-int main(void) {
+int main(void) {	
+	printf("This is a calculator program !\n");
+	
 	char input[BUFFERSIZE];
 	
 	printf("Enter your expression: ");
