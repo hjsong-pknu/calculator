@@ -11,4 +11,6 @@ int main(void) {
 	fgets(input, BUFFERSIZE, stdin);
 	printf("Result is: %.2f\n", evaluate(input));
 	return EXIT_SUCCESS;
+	printf("This calculator is fixed.");
+	printf("This calculator is fixed again. because of mistake.");
 }
