@@ -3,9 +3,11 @@
 #include "eval.h"
 #define BUFFERSIZE (256)
 
+
+
 int main(void) {
 	char input[BUFFERSIZE];
-	
+	printf("202111602 Kim Jun-Seo\n");	
 	printf("Enter your expression: ");
 	fflush(stdout);
 	fgets(input, BUFFERSIZE, stdin);
