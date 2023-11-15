@@ -10,5 +10,6 @@ int main(void) {
 	fflush(stdout);
 	fgets(input, BUFFERSIZE, stdin);
 	printf("Result is: %.2f\n", evaluate(input));
+	printf("202213211 So Eun Park ");
 	return EXIT_SUCCESS;
 }
