@@ -3,6 +3,8 @@
 #include "eval.h"
 #define BUFFERSIZE (256)
 
+int newGlobalVariable = 1024;
+
 int main(void) {
 	char input[BUFFERSIZE];
 	
