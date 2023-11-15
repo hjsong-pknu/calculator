@@ -5,7 +5,7 @@
 
 int main(void) {
 	char input[BUFFERSIZE];
-	printf("welcome");	
+	printf("welcome I am choi young ju\n");	
 	printf(" >>> Text Based Calculator <<<\n");
 	printf("Enter your expression: ");
 	fflush(stdout);
