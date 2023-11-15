@@ -10,5 +10,7 @@ int main(void) {
 	fflush(stdout);
 	fgets(input, BUFFERSIZE, stdin);
 	printf("Result is: %.2f\n", evaluate(input));
+	printf("Hello World\n");
 	return EXIT_SUCCESS;
+	
 }
