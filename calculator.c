@@ -5,7 +5,8 @@
 
 int main(void) {
 	char input[BUFFERSIZE];
-	
+
+	printf("202011684 마태석\n");
 	printf("Enter your expression: ");
 	fflush(stdout);
 	fgets(input, BUFFERSIZE, stdin);
