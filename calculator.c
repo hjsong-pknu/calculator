@@ -9,6 +9,7 @@ int main(void) {
 	printf("Enter your expression: ");
 	fflush(stdout);
 	fgets(input, BUFFERSIZE, stdin);
+	while (getchar() != '\n');
 	printf("Result is: %.2f\n", evaluate(input));
 	return EXIT_SUCCESS;
 }
