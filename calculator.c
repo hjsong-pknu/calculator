@@ -3,9 +3,6 @@
 #include "eval.h"
 #define BUFFERSIZE (256)
 
-int myvariable;
-int global;
-
 int main(void) {
 	char input[BUFFERSIZE];
 	printf("202030507 장지현 추가 코드입니다. ")
