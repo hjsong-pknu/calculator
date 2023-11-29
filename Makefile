@@ -10,3 +10,5 @@ token.o: token.c token.h
 	gcc -c token.c
 clean:
 	rm -rf *.o calc
+newfunction.o: newfunction.c
+	gcc -c newfunction.c
