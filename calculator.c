@@ -4,6 +4,7 @@
 #define BUFFERSIZE (256)
 
 int myvariable;
+int global;
 
 int main(void) {
 	char input[BUFFERSIZE];
