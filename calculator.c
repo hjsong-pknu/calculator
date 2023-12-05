@@ -3,9 +3,12 @@
 #include "eval.h"
 #define BUFFERSIZE (256)
 
+int global;
+int myvariable;
+
 int main(void) {
 	char input[BUFFERSIZE];
-	
+	printf("202030507 장지현 추가 코드입니다. ")
 	printf("Enter your expression: ");
 	fflush(stdout);
 	fgets(input, BUFFERSIZE, stdin);
