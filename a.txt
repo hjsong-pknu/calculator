@@ -1,3 +1,7 @@
 a
 c
+<<<<<<< HEAD
 alice
+=======
+vb
+>>>>>>> vboxuser
